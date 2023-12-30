@@ -48,10 +48,6 @@ Please execute the cells in the following order:
    - During execution, you will see the output of code cells, such as data summaries, visualizations, and model evaluation results.
    - Successful execution of the last cell will indicate that the model has been trained, evaluated, and is ready for use.
 
-## Estimated Runtime
-...to be determined
-## Features
-...explanations
 
 ## Conclusion
 By completing this notebook, you will gain valuable insights into house price predictions and have a trained model ready for use. We hope this data-driven solution will empower Wazobia Real Estate Limited to achieve its goals.
